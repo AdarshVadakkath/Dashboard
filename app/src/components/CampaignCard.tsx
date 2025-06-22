@@ -8,13 +8,7 @@ import {
   IconButton,
   Avatar,
 } from "@mui/material";
-import {
-  MessageCircle,
-  Heart,
-  MoreHorizontal,
-  Mail,
-  Clock,
-} from "lucide-react";
+import { MoreHorizontal, Mail, Clock } from "lucide-react";
 
 interface Campaign {
   id: string;

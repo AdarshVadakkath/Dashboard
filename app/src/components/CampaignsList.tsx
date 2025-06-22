@@ -10,11 +10,10 @@ import {
   FormControl,
   Chip,
   Card,
-  CardContent,
   IconButton,
   InputAdornment,
 } from "@mui/material";
-import { Plus, Filter, Tag, List, Flag, Hourglass } from "lucide-react";
+import { Plus, Filter, Tag, List, Hourglass } from "lucide-react";
 import CampaignCard from "./CampaignCard";
 import CalendarTodayIcon from "@mui/icons-material/CalendarToday";
 
